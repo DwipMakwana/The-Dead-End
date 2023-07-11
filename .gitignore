@@ -4,12 +4,9 @@
 [Bb]uild/
 [Bb]uilds/
 
-#After Effect Files
-After Effect Files*
-Assets/Intro*
-
-#Big files
-
+# After Effect Files
+After Effect Files/*mp4
+Assets/Intro/Game Intro.mp4
 
 # Visual Studio cache directory
 .vs/
