@@ -9,14 +9,12 @@ After Effect Files*
 Assets/Intro*
 
 #Temp
-Assets/_TerrainAutoUpgrade*
 Assets/Dead End/Animations/Game Institute*
 Assets/Dead End/Animations/Mixamo Animations*
-Assets/Dead End/Models*
-Assets/Models*
 Assets/HorrorEnvironment_AbandonedPrison*
 Assets/HorrorEnvironment_Hospital*
-Assets/Navigation Example*
+
+#Big files
 Assets/PostApo*
 
 # Visual Studio cache directory
