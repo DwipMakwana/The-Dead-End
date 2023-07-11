@@ -10,7 +10,8 @@ Assets/Intro*
 
 #Big files
 Assets/PostApo/_origin/Standard Assets*
-Assets/PostApo*
+Assets/PostApo/Prefabs*
+Assets/PostApo/Nature*
 
 # Visual Studio cache directory
 .vs/
